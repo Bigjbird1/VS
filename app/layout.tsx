@@ -7,7 +7,7 @@ import Navigation from './components/Navigation';
 const inter = Inter({ subsets: ['latin'] });
 
 export const metadata: Metadata = {
-  title: 'WeddingTransfer',
+  title: 'VowSwap',
   description: 'Transfer your wedding date with ease',
 };
 

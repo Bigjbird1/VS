@@ -37,7 +37,7 @@ const CommunicationSystem = () => {
     {
       id: 3,
       type: 'support',
-      name: 'WeddingTransfer Support',
+      name: 'VowSwap Support',
       avatar: null,
       lastMessage: "How can I help you today?",
       timestamp: '1 day ago',

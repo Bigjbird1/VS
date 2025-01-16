@@ -81,7 +81,7 @@ const ChatArea: React.FC<ChatAreaProps> = ({ selectedChat, message, setMessage }
           <Alert className="mb-4">
             <HelpCircle className="w-4 h-4" />
             <AlertDescription>
-              You're chatting with WeddingTransfer Support. We're here to help with any questions or concerns.
+              You're chatting with VowSwap Support. We're here to help with any questions or concerns.
             </AlertDescription>
           </Alert>
         )}
